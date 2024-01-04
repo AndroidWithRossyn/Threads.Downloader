@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ThSaver</string>
+    <string name="developer">Rossyn \n©2023</string>
+    <string name="developerUrl">https://play.google.com/store/apps/dev?id=5306067645342206751</string>
+
+    <!--- Ads Id -->
+    <string name="admob_app_id">ca-app-pub-4577382853353362~1194267836</string>
+<!--    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="aboutus_name">About Us</string>
+    <string name="share_app_name">Share App</string>
+
+    <string name="tv_paste">Paste</string>
+    <string name="privacy_text_">You have periodic payment subscription(monthly,yearly etc..), you can enjoy all the Threads downloader Premium privileges during this subscription period. \n\nThe subscription will automatically renew at the trial ends(or the current subscription period ends), unless you cancel your subscription at least 24 hours before the renewal date. \n\nYou can go to the account page of Google Play to manage or cancel the subscription, there is no charge for cancellation during the trial period.</string>
+
+    <string name="paste_link">Paste Your Link</string>
+
+    <string name="genreted">Generate Content</string>
+    <string name="download">Download</string>
+
+    <string name="share_txt" translatable="false">"Hey download Videos/Images from Thread &amp; Click the link below > https://play.google.com/store/apps/details?id= "</string>
+    <string name="share_image_via" translatable="false">Share File via...</string>
+
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="how_to_use">How to Use</string>
+
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+
+    <string name="url_example">https://www.threads.net/@banrossyn/</string>
+
+    <string name="no_data_found">No Data Found</string>
+
+    <string name="no_result_found">No Data Found</string>
+    <string name="paste_url_here">Paste URL Here</string>
+
+</resources>

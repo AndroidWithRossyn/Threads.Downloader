@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <com.jsibbold.zoomage.ZoomageView
+        android:id="@+id/im_fullViewImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#202020"
+        app:zoomage_animateOnReset="true"
+        app:zoomage_autoCenter="true"
+        app:zoomage_autoResetMode="UNDER"
+        app:zoomage_maxScale="8"
+        app:zoomage_minScale="0.6"
+        app:zoomage_restrictBounds="false"
+        app:zoomage_translatable="true"
+        app:zoomage_zoomable="true" />
+
+    <ImageView
+        android:id="@+id/im_vpPlay"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/border"
+       android:clickable="true"
+        android:focusable="true"
+        android:padding="@dimen/_3sdp"
+        android:src="@drawable/ic_video_play"
+        android:visibility="visible"
+        app:tint="@color/white" />
+
+</RelativeLayout>

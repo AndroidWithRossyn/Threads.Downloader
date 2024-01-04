@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="black90">#B2000000</color>
+
+    <color name="light_cream">#DBD3EC</color>
+
+
+    <color name="black30">#6A000000</color>
+    <color name="cld">#1E5DFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_grey">#DCDCDC</color>
+    <color name="green_50">#4F971C</color>
+    <color name="grey">#BFBFBF</color>
+    <color name="red">#fe4e4e</color>
+    <color name="holo_green">#82DF4F</color>
+    <color name="dark_grey_blue">#33475c</color>
+    <color name="blue">#6432BE</color>
+    <color name="black_transparent">#40000000</color>
+    <color name="splash_text">#7ffb00</color>
+    <color name="whatsapp_color">#3DE25C</color>
+    <color name="purple">#381E72</color>
+
+    <color name="colorPrimary">#5b67f1</color>
+    <color name="colorPrimaryDark">#4D5AF3</color>
+    <color name="colorAccent">#DD5B67F1</color>
+
+    <color name="white">#fff</color>
+    <color name="white30">#D8D8D8</color>
+    <color name="black">#000000</color>
+
+    <color name="creame_light">#ABA1BC</color>
+
+    <color name="background">#fdfdff</color>
+    <color name="buttonBack">#5b67f1</color>
+    <color name="border">#c3c7f8</color>
+    <color name="tabUnSelect">#19C3C7F8</color>
+    <color name="cardColor">#f5f5ff</color>
+    <color name="searchbox">#BCFDFDFF</color>
+
+    <color name="progressColor">#5c68eb</color>
+    <color name="textColor">#191919</color>
+    <color name="trackColor">#393939</color>
+
+</resources>

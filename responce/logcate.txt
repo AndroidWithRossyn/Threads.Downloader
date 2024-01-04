@@ -1,0 +1,30 @@
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  main pasted url :https://www.threads.net/t/CwIWhlMO3p5/
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  orgurl: https://www.threads.net/t/CwIWhlMO3p5/
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url has /t/ :CwIWhlMO3p5/
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after extract: https://www.threads.net/t/CwIWhlMO3p5/
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  https://www.threads.net/t/CwIWhlMO3p5//
+2023-08-20 20:22:40.914 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after URL Converter:https://www.threads.net/t/CwIWhlMO3p5//
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  main pasted url :https://www.threads.net/t/CwIWhlMO3p5
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  orgurl: https://www.threads.net/t/CwIWhlMO3p5
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url has /t/ :CwIWhlMO3p5
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after extract: https://www.threads.net/t/CwIWhlMO3p5
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  https://www.threads.net/t/CwIWhlMO3p5/
+2023-08-20 20:24:17.464 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after URL Converter:https://www.threads.net/t/CwIWhlMO3p5/
+2023-08-20 20:24:18.130 14877-14877 downloadflow            com.banrossyn.storydownloader        D  gson responce :com.banrossyn.storydownloader.model.ThreadsModel@43b58cc
+2023-08-20 20:24:18.136 14877-14877 downloadflow            com.banrossyn.storydownloader        D  onResponse: urssls:  {"image_urls":["https://cdn.threadsphotodownloader.com/scontent-fra3-1.cdninstagram.com/v/t51.29350-15/368570514_312840107888806_9123545100612260722_n.jpg?_nc_cat\u003d103\u0026ccb\u003d1-7\u0026_nc_sid\u003d8ae9d6\u0026_nc_ohc\u003dwqiUWjJY788AX_It5Al\u0026_nc_ht\u003dscontent-fra3-1.cdninstagram.com\u0026oh\u003d00_AfCZBvPpkyk7n0FRDkFrhYq6Mn8Dmtzl_0Jpm7TnkRYe-w\u0026oe\u003d64E7882F"],"video_urls":[]}
+2023-08-20 20:24:18.137 14877-14877 downloadflow            com.banrossyn.storydownloader        D  items count :1
+
+
+2023-08-20 20:29:41.440 14877-14877 downloadflow            com.banrossyn.storydownloader        D  main pasted url :https://www.threads.net/@anapaulasaenzoficialgm/post/CwFmP9yu7wo/?igshid=NTc4MTIwNjQ2YQ==
+2023-08-20 20:29:41.440 14877-14877 downloadflow            com.banrossyn.storydownloader        D  orgurl: https://www.threads.net/@anapaulasaenzoficialgm/post/CwFmP9yu7wo/?igshid=NTc4MTIwNjQ2YQ==
+2023-08-20 20:29:41.441 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url has /post/ :CwFmP9yu7wo
+2023-08-20 20:29:41.441 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after extract: https://www.threads.net/@anapaulasaenzoficialgm/post/CwFmP9yu7wo/?igshid=NTc4MTIwNjQ2YQ==
+2023-08-20 20:29:41.441 14877-14877 downloadflow            com.banrossyn.storydownloader        D  https://www.threads.net/t/CwFmP9yu7wo/
+2023-08-20 20:29:41.441 14877-14877 downloadflow            com.banrossyn.storydownloader        D  url after URL Converter:https://www.threads.net/t/CwFmP9yu7wo/
+2023-08-20 20:29:43.114 14877-14877 downloadflow            com.banrossyn.storydownloader        D  gson responce :com.banrossyn.storydownloader.model.ThreadsModel@d3bc51c
+2023-08-20 20:29:43.121 14877-14877 downloadflow            com.banrossyn.storydownloader        D  onResponse: urssls:  {"image_urls":["https://cdn.threadsphotodownloader.com/scontent-fra3-2.cdninstagram.com/v/t51.29350-15/368027872_1430616377785573_2562438148017996471_n.jpg?_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003d8ae9d6\u0026_nc_ohc\u003dGf00-hHA-RcAX8JVEJ-\u0026_nc_ht\u003dscontent-fra3-2.cdninstagram.com\u0026oh\u003d00_AfAdbydkAYpGdkRtVTM5pzBO8DX1u47sIIta1EYL4DKxRQ\u0026oe\u003d64E67D20"],"video_urls":[]}
+2023-08-20 20:29:43.123 14877-14877 downloadflow            com.banrossyn.storydownloader        D  items count :1
+
+
+Retrofit base url: https://api.threadsphotodownloader.com/
+Retrofit base url: https://api.threadsphotodownloader.com/

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>Adshow</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>showInterstitial</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>bannerAdFullId</key>
+    <value>ca-app-pub-3940256099942544/6300978111</value>
+  </entry>
+  <entry>
+    <key>bannerAdId</key>
+    <value>ca-app-pub-3940256099942544/6300978111</value>
+  </entry>
+  <entry>
+    <key>interstitialAdId</key>
+    <value>ca-app-pub-3940256099942544/1033173712</value>
+  </entry>
+  <entry>
+    <key>Version</key>
+    <value>3.0.8.24</value>
+  </entry>
+  <entry>
+    <key>PrivacyPolicy</key>
+    <value>https://omaprakash.github.io/Threads.Downloader/</value>
+  </entry>
+  <entry>
+    <key>HowToUse</key>
+    <value>https://omaprakash.github.io/Threads.Downloader/</value>
+  </entry>
+</defaults>

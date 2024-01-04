@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#18FFFF</color>
+    <color name="colorPrimaryDark">#35b7ff</color>
+    <color name="colorAccent">#9935B7FF</color>
+    <color name="white30">#FFFFFF</color>
+
+    <color name="white">#000000</color>
+    <color name="black">#FFFFFF</color>
+
+    <color name="creame_light">#464549</color>
+
+
+    <color name="background">#111111</color>
+    <color name="buttonBack">#35b7ff</color>
+    <color name="border">#9935B7FF</color>
+    <color name="tabUnSelect">#19C3C7F8</color>
+    <color name="cardColor">#3a3a3a</color>
+    <color name="searchbox">#D0111111</color>
+    <color name="progressColor">#3a3a3a</color>
+    <color name="textColor">#ffffff</color>
+    <color name="trackColor">#C8C8C8</color>
+
+</resources>

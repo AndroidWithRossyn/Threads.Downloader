@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925815119406",
+    "project_id": "instory-688fa",
+    "storage_bucket": "instory-688fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925815119406:android:e6d0a43473ea36ffa709bf",
+        "android_client_info": {
+          "package_name": "com.banrossyn.storydownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925815119406-sdjjsc2o2e71o6sker9s752beck4nr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87gebLhIzvXGSPYPZsBt0hhnL4iu1DuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925815119406-sdjjsc2o2e71o6sker9s752beck4nr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4577382853353362~1194267836"
+    }
+  ],
+  "configuration_version": "1"
+}

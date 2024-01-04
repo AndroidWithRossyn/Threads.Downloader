@@ -1,0 +1,29 @@
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+        mavenCentral { url 'https://oss.jfrog.org/artifactory/oss-snapshot-local' }
+        mavenCentral { url 'https://jitpack.io' }
+        maven {
+            url 'https://android-sdk.is.com/'
+        }
+        maven {
+            url "https://maven.google.com"
+        }
+//        maven { url "https://jitpack.io" }
+    }
+}
+
+include ':app'
+rootProject.name = "ThSaver-Threads"

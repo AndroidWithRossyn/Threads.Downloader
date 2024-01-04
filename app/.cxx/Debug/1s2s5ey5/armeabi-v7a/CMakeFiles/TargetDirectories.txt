@@ -1,0 +1,3 @@
+F:/Threads-Downloader/app/.cxx/Debug/1s2s5ey5/armeabi-v7a/CMakeFiles/native-lib.dir
+F:/Threads-Downloader/app/.cxx/Debug/1s2s5ey5/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/Threads-Downloader/app/.cxx/Debug/1s2s5ey5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

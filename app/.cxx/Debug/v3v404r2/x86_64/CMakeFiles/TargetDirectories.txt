@@ -1,0 +1,3 @@
+F:/Threads-Downloader/app/.cxx/Debug/v3v404r2/x86_64/CMakeFiles/native-lib.dir
+F:/Threads-Downloader/app/.cxx/Debug/v3v404r2/x86_64/CMakeFiles/edit_cache.dir
+F:/Threads-Downloader/app/.cxx/Debug/v3v404r2/x86_64/CMakeFiles/rebuild_cache.dir
